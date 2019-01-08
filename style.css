@@ -39,12 +39,15 @@ a {
   }
 
 /* Sidebar links */
-.sidebar a {
-  display: block;
-  color: white;
-  padding: 16px;
+.sidenav a {
+  padding: 8px 8px 8px 32px;
   text-decoration: none;
+  font-size: 25px;
+  color: #FFFFFF;
+  display: block;
+  transition: 0.3s;
 }
+
 
 /* Active/current link */
 .sidebar a.active {
