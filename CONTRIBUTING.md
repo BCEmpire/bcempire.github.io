@@ -1,3 +1,1 @@
-please list issues clearly and percicely
-if commentinn on a missing feature titly you issue mising feature
-if requesting a
+Please list issues clearly and percicely. If commentinn on a missing feature titly you issue MISSING FEATURE. If requesting a new feature title the issue NEW FEATURE REQUEST
