@@ -50,9 +50,8 @@ a {
 
 
 /* Active/current link */
-.sidebar a.active {
-  background-color: #4CAF50;
-  color: white;
+.sidenav a:hover {
+color: #f1f1f1;
 }
 
 /* Links on mouse-over */
