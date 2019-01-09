@@ -53,6 +53,7 @@ a {
   color: #818181;
   display: block;
   transition: 0.3s;
+    font-family: ttf;
 }
 
 /* When you mouse over the navigation links, change their color */
