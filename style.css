@@ -1,3 +1,8 @@
+@font-face {
+    font-family: ttf;
+    src: url(comic.ttf);
+}
+
 body {
     background-image: url(838CC80C-56E8-47D6-B485-2BE0B72B9FE3.jpeg);
     background-position: center;
@@ -7,15 +12,18 @@ h1 {
 Font-size: 50px;
 text-align: center;
 color: white;
+font-family: ttf;
 }
 h2 {
     text-align: center;
     color: white;
     Font-size: 30px;
+font-family: ttf;
 }
 a {
     text-align: center;
     Font-size: 30px;
+    font-family: ttf;
 }
 .center {
     margin-left: auto;
@@ -34,6 +42,7 @@ a {
   overflow-x: hidden; /* Disable horizontal scroll */
   padding-top: 60px; /* Place content 60px from the top */
   transition: 0.5s; /* 0.5 second transition effect to slide in the sidenav */
+    font-family: ttf;
 }
 
 /* The navigation menu links */
@@ -81,4 +90,5 @@ a {
   text-decoration: none;
   display: inline-block;
   font-size: 16px;
+    font-family: ttf;
 }
